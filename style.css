@@ -1,10 +1,7 @@
 .carousel-container {
   width: 72%;
 }
-.separator {
-  border: 0.2px solid;
-  color: #000;
-}
+
 .carousel-img {
   height: 300px;
 }
@@ -30,7 +27,10 @@
 .info-title {
   font-size: large;
 }
-
+.language-course-button {
+  height: 60px;
+  width: 280px;
+}
 /*separator*/
 
 .sep {
@@ -65,3 +65,8 @@
 }
 
 /*accordion*/
+
+.flags {
+  width: 18px;
+  height: 18px;
+}
