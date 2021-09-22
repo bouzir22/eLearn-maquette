@@ -63,10 +63,12 @@
   top: 50%;
   z-index: -2;
 }
-
-/*accordion*/
+.service-portal-tiltle {
+  text-align: center;
+}
 
 .flags {
   width: 18px;
   height: 18px;
 }
+/*accordion*/
